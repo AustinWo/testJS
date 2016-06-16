@@ -1,0 +1,22 @@
+{
+  "name": "test-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/jshint/bin/jshint hello.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AustinWo/testJS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AustinWo/testJS/issues"
+  },
+  "homepage": "https://github.com/AustinWo/testJS#readme",
+  "devDependencies": {
+    "jshint": "^2.9.2"
+  }
+}
